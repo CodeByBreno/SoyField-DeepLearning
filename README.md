@@ -1,6 +1,11 @@
 # 🌱🤖 SoyField-DeepLearning
 
-Projeto desenvolvido para disciplina de Deep Learning, no final de 2024. O objetivo é construir um classificador para identificar em qual dos 8 estágios de desenvolvimento se encontra um plantio de soja, com base numa base de dados representativa apresentada pela Bayer
+Projeto desenvolvido para disciplina de Deep Learning, no final de 2024. O objetivo é construir um classificador para identificar em qual dos 8 estágios de desenvolvimento se encontra um plantio de soja, com base numa base de dados representativa apresentada pela Bayer.
+
+O código do trabalho foi baseado no feito em [Build a Deep CNN Image Classifier with ANY Images](https://www.youtube.com/watch?v=jztwpsIzEGc)
+
+![fields](https://github.com/user-attachments/assets/92fe6f07-23c2-43c9-bf22-b9bee8e499e1)
+(imagens típicas da base de dados utilizada)
 
 # ⚙️ Como Executar o Projeto?
 
@@ -23,4 +28,14 @@ Antes de mais nada, é preciso importar as imagens que serão utilizadas no trei
    Logo no início do arquivo Jupyter, existe a sessão "0. Criando a base de validação", com uma célula de código comentada.
    Remova os comentários e execute todas as linhas dessa sessão.
    Isso criará a base de validação corretamente. Depois, basta comentar a célula novamente, para evitar que a base seja criada novamente.
+
+# 🖼️ Imagens do Projeto
+
+<h2><Strong>Desenvolvimento e testes</Strong></h2>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4fc0f60f-fe86-4dd6-bc83-0c1e47e9d53e" width=340>
+<img src="https://github.com/user-attachments/assets/65df9c30-08d9-419f-9b59-9cd3c1526d34" width=394>
+</p>
+
+
 
