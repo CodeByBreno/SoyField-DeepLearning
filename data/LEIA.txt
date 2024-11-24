@@ -1,0 +1,4 @@
+Os arquivos de imagem para o treinamento da rede podem ser baixados em: https://drive.google.com/file/d/197o1N8bhoNT-1O9Zx6ZOZ4P6tmrMwW0j/view?usp=sharing
+
+Essas são cortesia da Bayer, fornecidas através da estudante Clara Mendes, estagiária na empresa. O link para o repositório original com essas informações é: https://github.com/mclaram/SoyField
+As imagens fazem parte de um dos desafios da Bayer Week, evento promovido pela empresa na região onde são apresentados desafios na área de tecnologia
