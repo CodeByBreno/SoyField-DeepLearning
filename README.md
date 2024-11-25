@@ -38,7 +38,7 @@ Antes de mais nada, é preciso importar as imagens que serão utilizadas no trei
 
 A partir disso, será possível executar o restante do projeto.
 Na sessão 3, que trata do modelo de rede neural, existem várias arquiteturas geradas durante o projeto. A maioria delas está comentada,
-com apenas uma estando disponível. Caso você opte por iniciar o kernel do jupyter e executar todo o código, esse modelo será utilizado
+com apenas uma estando disponível. Caso você opte por iniciar o kernel do jupyter e executar todo o código, o modelo não comentado será utilizado
 no treinamento. Na sessão 4, é feito o treinamento em sí, que pode levar algum tempo dependendo da máquina onde está sendo executado.
 Na sessão 5 e 6, são apresentados os resultados no formato de estatísticas e testes diretos em exemplos de cada categoria (da base de validação, 
 para evitar que o modelo tenha decorado) 
