@@ -81,7 +81,7 @@ Detalhamento de cada sessão:
    <img src="https://github.com/user-attachments/assets/65df9c30-08d9-419f-9b59-9cd3c1526d34" width=394>
 </p>
 
-<h2><Strong>Infelizmente, no prazo para apresentação, o modelo não estava reconhecendo alguns casos corretamente. Os modelos produzidos estão sofreram com overfitting</Strong></h2>
+<p>Infelizmente, no prazo para apresentação, o modelo não estava reconhecendo alguns casos corretamente. Os modelos produzidos estão sofreram com overfitting</p>
 
 <h2><Strong>Previsões Corretas</Strong></h2>
 <p align="center">
